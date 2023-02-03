@@ -1,0 +1,28 @@
+{
+  "name": "exercise-repo",
+  "version": "1.0.0",
+  "description": "test repository for testing innersource promotion",
+  "main": "src/index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github-innersource/exercise-repo-template.git"
+  },
+  "author": "jefeish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/github-innersource/exercise-repo-template/issues"
+  },
+  "homepage": "https://github.com/github-innersource/exercise-repo-template#readme",
+  "dependencies": {
+    "ansi-regex": "=5.0.0",
+    "minimist": "1.2.5",
+    "serialize-javascript": "=2.1.0",
+    "validator": "=13.6.0"
+  }
+}
