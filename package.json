@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/github-innersource/exercise-repo-template#readme",
   "dependencies": {
-    "ansi-regex": "=5.0.0",
+    "ansi-regex": "=5.0.1",
     "minimist": "1.2.5",
     "serialize-javascript": "=2.1.0",
     "validator": "=13.6.0"
