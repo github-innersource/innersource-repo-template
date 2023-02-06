@@ -24,6 +24,6 @@
     "ansi-regex": "=5.0.0",
     "minimist": "1.2.5",
     "serialize-javascript": "=2.1.0",
-    "validator": "=13.6.0"
+    "validator": "=13.7.0"
   }
 }
