@@ -1,4 +1,4 @@
-# exercise-repo-template
+# innersource-repo-template
 
 A sample repoistory for exercising the Innersource App's promotion process.
 This Repository contains few conditions that "violate" the Innersource App's policy for exercise purposes.
